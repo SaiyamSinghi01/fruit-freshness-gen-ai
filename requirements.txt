@@ -1,0 +1,30 @@
+# Core ML & Vision
+torch
+torchvision
+torchaudio
+
+# Streamlit Application
+streamlit
+Pillow
+opencv-python
+numpy
+pandas
+matplotlib
+
+# LLM + Tokenizer
+transformers==4.38.0
+sentencepiece
+
+# Diffusion + ControlNet
+diffusers==0.27.2
+controlnet-aux==0.0.7
+safetensors
+accelerate
+einops
+
+# Training Utilities
+scikit-learn
+tqdm
+
+# Optional (notebook training)
+ipywidgets
